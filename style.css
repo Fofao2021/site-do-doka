@@ -1,9 +1,10 @@
 body {
     color: black;
     background: orange;
+    margin: 0px;
 }
 
 header {
-    border: solid 2px black;
+    border-bottom: solid 2px black;
     
 }
