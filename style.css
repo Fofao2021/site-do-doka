@@ -2,6 +2,7 @@ body {
     color: black;
     background: orange;
     margin: 0px;
+    font-family: "Permanent Marker", cursive;
 }
 
 header {
@@ -12,4 +13,13 @@ header {
 }
 section {
     background: rgb(217, 150, 2, 1);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+ }
+
+
+ .chamada-texto {
+    margin-right: 4%;
  }
