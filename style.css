@@ -2,7 +2,7 @@ body {
     color: black;
     background: orange;
     margin: 0px;
-    font-family: "Permanent Marker", cursive;
+    font-family: "Limelight", sans-serif;
 }
 
 header {
@@ -22,4 +22,12 @@ section {
 
  .chamada-texto {
     margin-right: 4%;
+ }
+
+ h1 {
+    font-size: 30px;
+ }
+
+ p {
+    font-size: 15px;
  }
