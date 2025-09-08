@@ -3,6 +3,7 @@ body {
     background: orange;
     margin: 0px;
     font-family: "Limelight", sans-serif;
+    margin-bottom: 50px;
 }
 
 header {
@@ -42,6 +43,7 @@ header {
 .categoria {
    padding-left: 10px;
    padding-right: 10px;
+   margin-top: 20px;
  }
 
  .categoria-videos img {
